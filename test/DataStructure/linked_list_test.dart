@@ -1,4 +1,4 @@
-import 'package:linked_list/DataStructure/linked_list.dart';
+import 'package:linked_list/DataStructure/Linked_List/linked_list.dart';
 import 'package:test/test.dart';
 
 void main() {
