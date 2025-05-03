@@ -1,12 +1,12 @@
 # Stack<T> Implementation
 
-## 📚 About LIFO Principle
+## About LIFO Principle
 
 LIFO stands for "Last In, First Out."  
 It means that the last element added to the stack is the first one to be removed.  
 Imagine a stack of plates: you add plates to the top, and you also remove plates from the top.
 
-## 🛠️ How This Stack Works
+## How This Stack Works
 
 This project implements a generic `Stack<T>` data structure using a `List` in Dart.
 
